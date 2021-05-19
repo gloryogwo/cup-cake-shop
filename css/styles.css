@@ -1,0 +1,19 @@
+.flashy {
+  width: 75%;
+  font-style: italic;
+  font-weight: bold;
+  color: red;
+}
+  img {
+    width: 300px;
+    height: 300px;
+  }
+  .best { 
+    font-style: italic;
+    font-weight: bold;
+    color: blue;
+  }
+  body {
+    background-color: lightsteelblue;
+
+  }
